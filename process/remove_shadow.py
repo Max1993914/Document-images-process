@@ -18,7 +18,7 @@ def shadow_remove(color_img):
     g_img = np.divide(g_img.astype(np.float), 255)
     blurred_img = np.divide(blurred_img.astype(np.float), 255)
     rs_img = np.divide(g_img, blurred_img)  # 去阴影
-    rs_img = cv.pow(rs_img, 1.5)
+    rs_img = cv.pow(rs_img, 1.5)  # 提亮
     rs_img = np.maximum(rs_img, 0.0)
     rs_img = np.minimum(rs_img, 1.0)
     rs_img = np.multiply(rs_img, 255)
