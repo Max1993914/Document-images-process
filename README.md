@@ -1,4 +1,4 @@
-# Paper_process
+# Document image process
 ## this is a simple program to process your paper work image.
 ### original image:
 <img src="https://raw.githubusercontent.com/Max1993914/Paper_process/master/images/1.jpg" width="50%" height="50%"/><br>
