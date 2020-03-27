@@ -1,9 +1,9 @@
 # Paper_process
 ## this is a simple program to process your paper work image.
 ### original image:
-![](https://raw.githubusercontent.com/Max1993914/Paper_process/master/images/1.jpg)
+<img src="https://raw.githubusercontent.com/Max1993914/Paper_process/master/images/1.jpg", width="50%",height="50%"/>
 ### shadow remove:
-![](https://raw.githubusercontent.com/Max1993914/Paper_process/master/images/1_rs.jpg)
+<img src="https://raw.githubusercontent.com/Max1993914/Paper_process/master/images/1_rs.jpg", width="50%",height="50%"/>
 ## prerequisite:
 python3 <br>
 opencv=3.4.2.16 (around this version should be okay)
